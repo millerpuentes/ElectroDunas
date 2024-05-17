@@ -21,11 +21,11 @@ Se espera que, como parte del desarrollo de esta inicia va, se logre un producto
 
 ### Tabla de contenido
 
-[Entrega 1](https://github.com/millerpuentes/Sistema_de_-Recomendacion_de_Noticias/tree/main/Entrega%201#resumen)
+[Entrega 1](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%201)
 
-[Entrega 2](https://github.com/millerpuentes/Sistema_de_-Recomendacion_de_Noticias/tree/main/Entrega%20Final)
+[Entrega 2](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%202)
 
-[Entrega 3](https://github.com/millerpuentes/Sistema_de_-Recomendacion_de_Noticias/tree/main/Entrega%20Final)
+[Entrega 3](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%203)
 
 
 ### Desarrolladores: 
