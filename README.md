@@ -19,6 +19,8 @@ Se espera que, como parte del desarrollo de esta inicia va, se logre un producto
 4. Mostrarle al usuario cuando un cliente presente un comportamiento anómalo y la cri cidad de éste de acuerdo con los modelos utilizados. 
 5. Ser amigable con el usuario, con una interfaz clara y comprensible. 
 
+Para revisar a detalle los requerimientos cumplidos a ElectroDunas con el Prototipo te invito a consulta el siguiente enlace: [Tabla de requerimientos](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/1.%20Tabla%20de%20requerimientos)
+
 ### Tabla de contenido
 
 [Entrega 1](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%201)
@@ -26,6 +28,14 @@ Se espera que, como parte del desarrollo de esta inicia va, se logre un producto
 [Entrega 2](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%202)
 
 [Entrega 3](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%203)
+
+1. Tabla de Requerimientos (https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/1.%20Tabla%20de%20requerimientos) 
+
+2. Entregable del Prototipo (https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/2%20Entregable%20del%20prototipo)
+
+3. Presentación ejecutiva (https://www.youtube.com/watch?v=N-Ktn46cSNQ&t=13s)
+
+4. Anexos adicionales (https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/Scripts)
 
 
 ### Desarrolladores: 
