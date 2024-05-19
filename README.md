@@ -29,13 +29,13 @@ Para revisar a detalle los requerimientos cumplidos a ElectroDunas con el Protot
 
 [Entrega 3](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%203)
 
-[3.1 Tabla de Requerimientos] (https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/1.%20Tabla%20de%20requerimientos) 
+-[*3.1 Tabla de Requerimientos*](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/1.%20Tabla%20de%20requerimientos) 
 
-[3.2 Entregable del Prototipo] (https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/2%20Entregable%20del%20prototipo)
+-[*3.2 Entregable del Prototipo*](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/2%20Entregable%20del%20prototipo)
 
-[3.3 Presentación ejecutiva] (https://www.youtube.com/watch?v=N-Ktn46cSNQ&t=13s)
+-[*3.3 Presentación ejecutiva*](https://www.youtube.com/watch?v=N-Ktn46cSNQ&t=13s)
 
-[3.4 Anexos adicionales] (https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/Scripts)
+-[*3.4 Anexos adicionales*](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/Scripts)
 
 
 ### Desarrolladores: 
