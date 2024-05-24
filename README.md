@@ -18,7 +18,7 @@ Se espera que, como parte del desarrollo de esta inicia va, se logre un producto
 4. Mostrarle al usuario cuando un cliente presente un comportamiento anómalo y la cri cidad de éste de acuerdo con los modelos utilizados. 
 5. Ser amigable con el usuario, con una interfaz clara y comprensible. 
 
-Para revisar a detalle los requerimientos cumplidos a ElectroDunas con el Prototipo te invito a consulta el siguiente enlace: [Tabla de requerimientos](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/1.%20Tabla%20de%20requerimientos)
+Para revisar a detalle los requerimientos cumplidos a ElectroDunas con el Prototipo te invito a consulta el siguiente enlace: [Tabla de requerimientos](https://github.com/millerpuentes/ElectroDunas/blob/e2aa209f8f19ac8c7667e0469582c34257dfbe58/Entrega%203/1.%20Tabla%20de%20requerimientos/Tabla%20de%20Requerimientos.pdf)
 
 Se puede explorar la solución analítica en el siguiente enlace:
 [Dashboard ElectroDunas](https://app.powerbi.com/view?r=eyJrIjoiYjMzMjcxYzItNzJmMC00NjExLWJjNGEtNjU0ZmM4ZDU0MDNkIiwidCI6ImZhYTQ0ZmQ5LWRhYmUtNDA2NC1hNmJiLTU5NjA4ZWE5ZDBmMyIsImMiOjR9)
