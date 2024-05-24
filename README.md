@@ -25,19 +25,19 @@ Se puede explorar la solución analítica en el siguiente enlace:
 
 ### Tabla de contenido
 
-[Entrega 1](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%201)
+[Entrega 1](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%201)
 
-[Entrega 2](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%202)
+[Entrega 2](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%202)
 
-[Entrega 3](https://github.com/millerpuentes/ElectroDunas/tree/4e4a4881e83fac1cc5a87000b9358ab827770546/Entrega%203)
+[Entrega 3](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%203)
 
--[*3.1 Tabla de Requerimientos*](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/1.%20Tabla%20de%20requerimientos) 
+-[*3.1 Tabla de Requerimientos*](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%203/1.%20Tabla%20de%20requerimientos) 
 
--[*3.2 Entregable del Prototipo*](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/2%20Entregable%20del%20prototipo)
+-[*3.2 Entregable del Prototipo*](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%203/2.%20Entregable%20del%20prototipo)
 
--[*3.3 Presentación ejecutiva*](https://www.youtube.com/watch?v=N-Ktn46cSNQ&t=13s)
+-[*3.3 Presentación ejecutiva*](https://youtu.be/RbHyzCDAKmg)
 
--[*3.4 Anexos adicionales*](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/Scripts)
+-[*3.4 Documentos e instructivos*](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%203/3.%20Documentos%20e%20Instructivos%20del%20prototipo)
 
 
 ### Desarrolladores: 
