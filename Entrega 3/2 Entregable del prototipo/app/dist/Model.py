@@ -3,8 +3,10 @@ import numpy as np
 import os
 from sklearn.ensemble import IsolationForest
 
-# Define la ruta a la carpeta que contiene los archivos CSV
-folder_path = 'C:/Users/relat/Dropbox/Maestría UNIANDES/8 Ciclo/Proyecto aplicado en analítica de datos/Proyecto/Entrada'
+# Obtén la ruta absoluta de la carpeta actual del script
+current_folder_path = os.path.dirname(os.path.abspath(__file__))
+# Define la ruta relativa a la carpeta "Entrada" desde la carpeta actual del script
+folder_path = os.path.join(current_folder_path, '..', '..', 'Entrada')
 
 # Lista todos los archivos CSV en la carpeta especificada
 files = [f for f in os.listdir(folder_path) if f.endswith('.csv')]
@@ -28,8 +30,12 @@ for file in files:
         # Muestra una advertencia si el archivo no contiene un ID de cliente válido
         print(f"Advertencia: El archivo {file} no contiene un ID de cliente válido y será omitido.")
 
-# Lee el archivo Excel que contiene información del sector económico de los clientes
-file_path = 'C:/Users/relat/Dropbox/Maestría UNIANDES/8 Ciclo/Proyecto aplicado en analítica de datos/Proyecto/Entrada/sector_economico_clientes.xlsx'
+
+# Obtén la ruta absoluta de la carpeta actual del script
+current_folder_path = os.path.dirname(os.path.abspath(__file__))
+# Define la ruta relativa al archivo "sector_economico_clientes.xlsx" desde la carpeta actual del script
+file_path = os.path.join(current_folder_path, '..', '..', 'Entrada', 'sector_economico_clientes.xlsx')
+
 sector_economico_clientes = pd.read_excel(file_path)
 
 # Extrae el ID del cliente del nombre y lo agrega como una nueva columna
@@ -96,9 +102,15 @@ def evaluar_todos_los_clientes(data_filtered_neg):
 # Detecta anomalías en la relación energía reactiva/energía activa para todos los clientes
 df_anomalias_ER_EA = evaluar_todos_los_clientes(data_filtered_neg_sorted)
 
+
+# Obtén la ruta absoluta de la carpeta actual del script
+current_folder_path = os.path.dirname(os.path.abspath(__file__))
+# Define la ruta relativa al archivo "df_anomalias_ER_EA.csv" desde la carpeta actual del script
+ruta_csv = os.path.join(current_folder_path, '..', '..', 'Salida', 'df_anomalias_ER_EA.csv')
 # Guarda los resultados en un archivo CSV
-ruta_csv = 'C:/Users/relat/Dropbox/Maestría UNIANDES/8 Ciclo/Proyecto aplicado en analítica de datos/Proyecto/Salida/df_anomalias_ER_EA.csv'
 df_anomalias_ER_EA.to_csv(ruta_csv, index=False)
+
+
 print("El script de las anomalías Contractuales se ha ejecutado correctamente!")
 
 # Diccionario con los mejores hiperparámetros para el modelo Isolation Forest por cliente
@@ -219,9 +231,16 @@ for client_id in unique_clients:
 df_anomalias_IF = pd.concat(all_results)
 df_anomalias_IF = df_anomalias_IF[['Fecha', 'Cliente_ID', 'Sector Económico:', 'Mes', 'Dia_de_Semana', 'Franja_Horaria', 'Active_energy', 'Anomaly_IF', 'Anomaly_Score_IF', 'criticidad']]
 
+
+# Obtén la ruta absoluta de la carpeta actual del script
+current_folder_path = os.path.dirname(os.path.abspath(__file__))
+# Define la ruta relativa al archivo "df_anomalias_IF.csv" desde la carpeta actual del script
+ruta_csv = os.path.join(current_folder_path, '..', '..', 'Salida', 'df_anomalias_IF.csv')
 # Guarda los resultados en un archivo CSV
-ruta_csv = 'C:/Users/relat/Dropbox/Maestría UNIANDES/8 Ciclo/Proyecto aplicado en analítica de datos/Proyecto/Salida/df_anomalias_IF.csv'
 df_anomalias_IF.to_csv(ruta_csv, index=False)
+
+
+
 print("El script de las anomalías por tendencia se ha ejecutado correctamente!")
 
 # Elimina los DataFrames temporales para liberar memoria
