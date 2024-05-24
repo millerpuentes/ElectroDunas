@@ -1,7 +1,8 @@
 ![UNIANDES](Imagenes/image_UNIANDES.png)
 
-## ANÁLISIS DESCRIPTIVO Y DETECCIÓN DE ANOMALÍAS EN CLIENTES NO REGULADOS DE ELECTRODUNAS
+![UNIANDES](Imagenes/Portada_proyecto.png)
 
+## ANÁLISIS DESCRIPTIVO Y DETECCIÓN DE ANOMALÍAS EN CLIENTES NO REGULADOS DE ELECTRODUNAS
 
 ### EletroDunas
 Electro Dunas es un conglomerado peruano compuesto por tres empresas dedicadas a la distribución de energía eléctrica y a la ejecución de proyectos en el sector energé co. Electro Dunas ene su sede en la ciudad de Ica y su área de concesión abarca múl ples provincias en los departamentos de Ica, Huancavelica y Ayacucho, donde se ha centrado en brindar un servicio público de energía eléctrica de alta calidad, que contribuye significa vamente al desarrollo económico y social de la región.
