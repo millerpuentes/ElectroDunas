@@ -1,5 +1,3 @@
-![UNIANDES](Imagenes/image_UNIANDES.png)
-
 ![UNIANDES](Imagenes/Portada_proyecto.png)
 
 ## ANÁLISIS DESCRIPTIVO Y DETECCIÓN DE ANOMALÍAS EN CLIENTES NO REGULADOS DE ELECTRODUNAS
@@ -21,6 +19,9 @@ Se espera que, como parte del desarrollo de esta inicia va, se logre un producto
 5. Ser amigable con el usuario, con una interfaz clara y comprensible. 
 
 Para revisar a detalle los requerimientos cumplidos a ElectroDunas con el Prototipo te invito a consulta el siguiente enlace: [Tabla de requerimientos](https://github.com/millerpuentes/ElectroDunas/tree/96c1457161199c5e0a245289fcd05004c886bf48/Entrega%203/1.%20Tabla%20de%20requerimientos)
+
+Se puede explorar la solución analítica en el siguiente enlace:
+[Dashboard ElectroDunas](https://app.powerbi.com/view?r=eyJrIjoiYjMzMjcxYzItNzJmMC00NjExLWJjNGEtNjU0ZmM4ZDU0MDNkIiwidCI6ImZhYTQ0ZmQ5LWRhYmUtNDA2NC1hNmJiLTU5NjA4ZWE5ZDBmMyIsImMiOjR9)
 
 ### Tabla de contenido
 
@@ -66,6 +67,12 @@ Para revisar a detalle los requerimientos cumplidos a ElectroDunas con el Protot
 <p align="center">
   <b>Miller Puentes</b>
 </p>
+
+
+<p align="center">
+  <img width="450" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
+</p>
+
 
 <p align="center">
   <img width="450" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
