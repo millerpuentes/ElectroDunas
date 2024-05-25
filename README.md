@@ -77,12 +77,12 @@ Puedes ver los resultados detallados en este enlace: [Dashboard Electro Dunas](h
   <b>Miller Puentes</b>
 </p>
 
-<table style="width:100%">
+<table style="width:100%;">
   <tr>
-    <td align="left">
+    <td style="width:50%; text-align:left;">
       <img width="350" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
     </td>
-    <td align="right">
+    <td style="width:50%; text-align:right;">
       <img width="350" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
     </td>
   </tr>
