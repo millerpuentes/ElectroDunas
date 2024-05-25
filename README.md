@@ -29,7 +29,7 @@ Apoyándonos en modelos de Machine Learning, se ha desarrollado una herramienta 
 
 Con esta herramienta, Electro Dunas podrá mejorar su capacidad para responder a las anomalías de manera eficiente y fortalecer la relación con sus clientes no regulados mediante una gestión más transparente y basada en datos. Esto refleja el compromiso de la empresa con la innovación y la excelencia operativa, mientras se posiciona como un líder en la industria energética peruana.
 
-Puedes ver los resultados detallados en este enlace: [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjMzMjcxYzItNzJmMC00NjExLWJjNGEtNjU0ZmM4ZDU0MDNkIiwidCI6ImZhYTQ0ZmQ5LWRhYmUtNDA2NC1hNmJiLTU5NjA4ZWE5ZDBmMyIsImMiOjR9).
+Puedes ver los resultados detallados en este enlace: [Dashboard Electro Dunas](https://app.powerbi.com/view?r=eyJrIjoiYjMzMjcxYzItNzJmMC00NjExLWJjNGEtNjU0ZmM4ZDU0MDNkIiwidCI6ImZhYTQ0ZmQ5LWRhYmUtNDA2NC1hNmJiLTU5NjA4ZWE5ZDBmMyIsImMiOjR9).
 
 
 ### Tabla de contenido
@@ -76,12 +76,8 @@ Puedes ver los resultados detallados en este enlace: [Power BI Report](https://a
 <p align="center">
   <b>Miller Puentes</b>
 </p>
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <img width="350" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
-  </div>
-  <div style="flex: 1; text-align: right;">
-    <img width="350" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
-  </div>
-</div>
 
+<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
+  <img width="450" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
+  <img width="450" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
+</div>
