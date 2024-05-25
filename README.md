@@ -31,7 +31,7 @@ Se puede explorar la solución analítica en el siguiente enlace:
 
 [Entrega 3](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%203)
 
--[*3.1 Tabla de Requerimientos*](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%203/1.%20Tabla%20de%20requerimientos) 
+-[*3.1 Tabla de Requerimientos*](https://github.com/millerpuentes/ElectroDunas/tree/968d8c49483e2c4af0ab21a73bea6417f4a48d72/Entrega%203/1.%20Tabla%20de%20requerimientos) 
 
 -[*3.2 Entregable del Prototipo*](https://github.com/millerpuentes/ElectroDunas/tree/4f000d7417b196f3c496de0042ffb83423b7deb1/Entrega%203/2.%20Entregable%20del%20prototipo)
 
