@@ -1,14 +1,17 @@
 ![UNIANDES](Imagenes/Portada_proyecto.png)
 
-## ANÁLISIS DESCRIPTIVO Y DETECCIÓN DE ANOMALÍAS EN CLIENTES NO REGULADOS DE ELECTRODUNAS
+## ANÁLISIS DESCRIPTIVO Y DETECCIÓN DE ANOMALÍAS EN CLIENTES NO REGULADOS DE ELECTRO DUNAS
+
 
 ### EletroDunas
-Electro Dunas es un conglomerado peruano compuesto por tres empresas dedicadas a la distribución de energía eléctrica y a la ejecución de proyectos en el sector energé co. Electro Dunas ene su sede en la ciudad de Ica y su área de concesión abarca múl ples provincias en los departamentos de Ica, Huancavelica y Ayacucho, donde se ha centrado en brindar un servicio público de energía eléctrica de alta calidad, que contribuye significa vamente al desarrollo económico y social de la región.
+Electro Dunas es un conglomerado peruano compuesto por tres empresas dedicadas a la distribución de energía eléctrica y a la ejecución de proyectos en el sector energético. Electro Dunas tiene su sede en la ciudad de Ica y su área de concesión abarca múltiples provincias en los departamentos de Ica, Huancavelica y Ayacucho, donde se ha centrado en brindar un servicio público de energía eléctrica de alta calidad, que contribuye significativamente al desarrollo económico y social de la región.
 
-Puntualmente, Electro Dunas ofrece suministro de energía eléctrica en media y baja tensión a clientes residenciales, empresas y en dades gubernamentales, cubriendo un área geográfica aproximada de 7,108 km² (Electrodunas, 2022). Sus instalaciones incluyen una red robusta compuesta por “14 Centros 1 de Transformación de 60/22.9/10 Kv, 458,8 kilómetros de líneas de sub-transmisión de 60 Kv, 2505 kilómetros de líneas de media tensión, 2934 kilómetros de líneas de baja tensión, 2359 subestaciones de transformación y 79245 luminarias de alumbrado público (según datos al 31/12/17)” (Electrodunas, 2022). 
+Puntualmente, Electro Dunas ofrece suministro de energía eléctrica en media y baja tensión a clientes residenciales, empresas y entidades gubernamentales, cubriendo un área geográfica aproximada de 7,108 km²  (Electro Dunas, 2022). Sus instalaciones incluyen una red robusta compuesta por “14 Centros 1 de Transformación de 60/22.9/10 Kv, 458,8 kilómetros de líneas de sub-transmisión de 60 Kv, 2505 kilómetros de líneas de media tensión, 2934 kilómetros de líneas de baja tensión, 2359 subestaciones de transformación y 79245 luminarias de alumbrado público (según datos al 31/12/17)” (Electro Dunas, 2022). 
 
-### problemática
-ElectroDunas, en su esfuerzo por alinearse con la iniciativa del Grupo Energía Bogotá (GEB) de utilizar análisis de datos para abordar diversos desafíos, está interesada en comprender mejor los patrones de comportamiento de sus clientes no regulados o libres. Este interés surge a raíz del significativo aumento en el volumen de estos clientes y la importancia de identificar anomalías relacionadas con pérdidas no técnicas. Actualmente, la empresa posee información comercial y técnica reportada por los medidores de cada uno de sus clientes no regulados. La información comercial incluye datos como el número de identificación del cliente y el sector de pertenencia(base de datos 1). La información técnica abarca los valores históricos de la energía activa entregada (kWh), la energía reactiva entregada (kVarh) y el voltaje registrado cada 15 minutos por los medidores (base de datos 2). A pesar de la disponibilidad de estos datos, su uso hasta ahora ha sido principalmente contable y financiero. Por ello, ha surgido la necesidad de implementar un proceso para identificar anomalías en los patrones de consumo mediante metodologías de análisis de datos, con el fin de mejorar la eficiencia y detectar posibles pérdidas no técnicas.
+
+### Problemática
+Electro Dunas, en su esfuerzo por alinearse con la iniciativa del Grupo Energía Bogotá (GEB) de utilizar análisis de datos para abordar diversos desafíos, está interesada en comprender mejor los patrones de comportamiento de sus clientes no regulados o libres. Este interés surge a raíz del significativo aumento en el volumen de estos clientes y la importancia de identificar anomalías relacionadas con pérdidas no técnicas. Actualmente, la empresa posee información comercial y técnica reportada por los medidores de cada uno de sus clientes no regulados. La información comercial incluye datos como el número de identificación del cliente y el sector de pertenencia(base de datos 1). La información técnica abarca los valores históricos de la energía activa entregada (kWh), la energía reactiva entregada (kVarh) y el voltaje registrado cada 15 minutos por los medidores (base de datos 2). A pesar de la disponibilidad de estos datos, su uso hasta ahora ha sido principalmente contable y financiero. Por ello, ha surgido la necesidad de implementar un proceso para identificar anomalías en los patrones de consumo mediante metodologías de análisis de datos, con el fin de mejorar la eficiencia y detectar posibles pérdidas no técnicas.
+
 
 ### Producto Mínimo Viable
 Se espera que, como parte del desarrollo de esta inicia va, se logre un producto mínimo viable de acuerdo con lo requerido por Electro Dunas. El producto debe: 
@@ -20,8 +23,14 @@ Se espera que, como parte del desarrollo de esta inicia va, se logre un producto
 
 Para revisar a detalle los requerimientos cumplidos a ElectroDunas con el Prototipo te invito a consulta el siguiente enlace: [Tabla de requerimientos](https://github.com/millerpuentes/ElectroDunas/blob/e2aa209f8f19ac8c7667e0469582c34257dfbe58/Entrega%203/1.%20Tabla%20de%20requerimientos/Tabla%20de%20Requerimientos.pdf)
 
-Se puede explorar la solución analítica en el siguiente enlace:
-[Dashboard ElectroDunas](https://app.powerbi.com/view?r=eyJrIjoiYjMzMjcxYzItNzJmMC00NjExLWJjNGEtNjU0ZmM4ZDU0MDNkIiwidCI6ImZhYTQ0ZmQ5LWRhYmUtNDA2NC1hNmJiLTU5NjA4ZWE5ZDBmMyIsImMiOjR9)
+
+### Solución del problema
+Apoyándonos en modelos de Machine Learning, se ha desarrollado una herramienta para enfrentar estos desafíos utilizando técnicas avanzadas de análisis y modelamiento de datos para optimizar la detección y gestión de anomalías en el consumo energético. Adicionalmente, se han realizado análisis descriptivos y se han detectado patrones de consumo anómalos, permitiendo a Electro Dunas actuar de manera proactiva para rectificar ineficiencias. Este enfoque es un primer paso para reforzar la integridad del suministro de energía.
+
+Con esta herramienta, Electro Dunas podrá mejorar su capacidad para responder a las anomalías de manera eficiente y fortalecer la relación con sus clientes no regulados mediante una gestión más transparente y basada en datos. Esto refleja el compromiso de la empresa con la innovación y la excelencia operativa, mientras se posiciona como un líder en la industria energética peruana.
+
+Puedes ver los resultados detallados en este enlace: [Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiYjMzMjcxYzItNzJmMC00NjExLWJjNGEtNjU0ZmM4ZDU0MDNkIiwidCI6ImZhYTQ0ZmQ5LWRhYmUtNDA2NC1hNmJiLTU5NjA4ZWE5ZDBmMyIsImMiOjR9).
+
 
 ### Tabla de contenido
 
@@ -67,13 +76,12 @@ Se puede explorar la solución analítica en el siguiente enlace:
 <p align="center">
   <b>Miller Puentes</b>
 </p>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1;">
+    <img width="350" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
+  </div>
+  <div style="flex: 1; text-align: right;">
+    <img width="350" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
+  </div>
+</div>
 
-
-<p align="center">
-  <img width="450" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
-</p>
-
-
-<p align="center">
-  <img width="450" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
-</p>
