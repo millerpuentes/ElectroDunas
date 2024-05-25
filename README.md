@@ -78,6 +78,10 @@ Puedes ver los resultados detallados en este enlace: [Dashboard Electro Dunas](h
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 20px;">
-  <img width="450" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
-  <img width="450" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
+  <div style="flex-basis: 50%; text-align: left;">
+    <img width="350" height="150" src="Imagenes/image_UNIANDES.png" alt="UNIANDES">
+  </div>
+  <div style="flex-basis: 50%; text-align: right;">
+    <img width="350" height="150" src="Imagenes/image_MIAD.png" alt="MIAD">
+  </div>
 </div>
